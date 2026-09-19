@@ -1,4 +1,4 @@
-[![CompTIA Security+](https://img.shields.org/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/6fc3053b-562b-4fe7-bfd3-1d8bd3ab667b/public_url)
+[![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/6fc3053b-562b-4fe7-bfd3-1d8bd3ab667b/public_url)
 
 <!--
 **emuhlestein/emuhlestein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
