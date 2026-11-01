@@ -1,7 +1,7 @@
 [![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/6fc3053b-562b-4fe7-bfd3-1d8bd3ab667b/public_url)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
- <img width="207" height="148" align="middle" alt="image" src="https://github.com/user-attachments/assets/885685e3-c40f-482f-9fd5-ac15583fe7f8" />I'm currently working on a FastAPI, full-stack project.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>I'm currently working on a Node.js, full-stack project.
+ <img width="207" height="148" align="middle" alt="image" src="https://github.com/user-attachments/assets/885685e3-c40f-482f-9fd5-ac15583fe7f8" />FastAPI is a microservice that handles AI.
 <!--
 **emuhlestein/emuhlestein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
