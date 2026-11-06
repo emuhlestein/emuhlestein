@@ -1,5 +1,5 @@
 <a href="https://www.credly.com/badges/6fc3053b-562b-4fe7-bfd3-1d8bd3ab667b/public_url">
-  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="48">
+  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="64">
 </a>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>I'm currently working on a Node.js, full-stack project.  
