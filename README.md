@@ -47,3 +47,22 @@ git clone ...
 
 # start the development stack
 docker compose up
+```
+
+(Add any specific environment variables, ports, or notes here.)
+
+## Architecture Notes
+
+(Brief description of service boundaries, how requests flow through Nginx, planned AI features, etc.)
+
+## Background
+
+Principal software engineer with decades of experience spanning systems programming and enterprise web development.
+
+- Early career: C/C++ and microkernel work on AIX at IBM, followed by UNIX/Motif contract work.
+- Long tenure at Landmark Graphics / Halliburton building and maintaining large oil & gas applications (UNIX, C, C++, Motif; later Linux port). Reached Principal Engineer.
+- Subsequent roles in government and government-contractor environments (C/C++/UNIX, then modern web).
+- Current role: Principal Consultant building Angular + Java/Spring MVC/Oracle reporting applications for the U.S. government.
+- Ongoing personal project: Exploring Node.js, FastAPI, containerized microservices, PostgreSQL, and AI integration.
+
+Open to interesting conversations about systems, enterprise software, or modern full-stack work.
